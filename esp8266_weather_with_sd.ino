@@ -1,6 +1,6 @@
 /**
    03/07/2017
-   Arthur A Garcia
+   Blain Barton
    This project will connect an ESP8266 to a display and DHT11 Temperature sensor
    The data will then be sent to Azure and an alert will be generated
    DEVICE : Node MCU ESP8266 (0.9)
